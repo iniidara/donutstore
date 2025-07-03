@@ -1,3 +1,6 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .nav a{
     color: black;
     text-decoration: none;
@@ -23,6 +26,9 @@
     margin-left: auto;
     justify-content: center;
     padding-top: 450px;
+}
+.hero b{
+    text-align: center;
 }
 .hero p{
     font-size: 60px;
@@ -87,6 +93,7 @@ font-size: 30px;
     padding: 5px;
     border-radius: 8px;
     box-shadow: 0px 4px 16px black;
+    text-align: center;
 }
 .gallery {
     display: grid;
